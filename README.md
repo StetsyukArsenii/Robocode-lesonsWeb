@@ -6,7 +6,7 @@ abc
 
 ### My name is Arsenii
 
-[my photo]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKFuriLdr5vy8QRDZemhznXmM8Irj_df_ihA&s](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstablediffusionweb.com%2Fimage%2F32141405-adolf-hitler-mugshot&psig=AOvVaw0Q4bpprP-IXsUOWEXBESjC&ust=1762786143335000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMCV34Kp5ZADFQAAAAAdAAAAABAe))
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fstablediffusionweb.com%2Fimage%2F32141405-adolf-hitler-mugshot&psig=AOvVaw0Q4bpprP-IXsUOWEXBESjC&ust=1762786143335000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMCV34Kp5ZADFQAAAAAdAAAAABAe
 **I'm javascript developer** 
 *Its something of my creations*
 ```javascript
